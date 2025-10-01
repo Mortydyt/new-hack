@@ -1,0 +1,12 @@
+# ignore dataset files
+*.csv
+*.tsv
+*.parquet
+*.json
+*.zip
+*.tar
+*.h5
+*.pkl
+/data/
+/datasets/
+.env
